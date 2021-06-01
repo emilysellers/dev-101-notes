@@ -8,8 +8,7 @@ Day 2
 * https://github.com/emilysellers/dev-101-notes/tree/main/day-2
 
 Day 3 
-* https://github.com/
-emilysellers/dev-101-notes/tree/main/day-3
+* https://github.com/emilysellers/dev-101-notes/tree/main/day-3
 
 Day 4 
 * https://github.com/emilysellers/dev-101-notes/tree/main/day-4
