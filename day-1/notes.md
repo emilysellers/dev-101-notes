@@ -9,3 +9,4 @@
 
 * ACP = add, commit, push
 * to add links to read me file, copy and paste URL
+* git add -A captures all changes
